@@ -1,0 +1,1174 @@
+{
+    "zip_codes": [
+        {
+            "zip_code": "11232",
+            "distance": 4.699,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11215",
+            "distance": 4.384,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11225",
+            "distance": 4.898,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11213",
+            "distance": 4.968,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11231",
+            "distance": 3.309,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11238",
+            "distance": 3.677,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11244",
+            "distance": 3.175,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11216",
+            "distance": 4.011,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11217",
+            "distance": 3.168,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10004",
+            "distance": 2.743,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11248",
+            "distance": 2.49,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11254",
+            "distance": 2.49,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11240",
+            "distance": 2.636,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11255",
+            "distance": 2.636,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11221",
+            "distance": 4.383,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11201",
+            "distance": 2.241,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11205",
+            "distance": 2.716,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "07305",
+            "distance": 4.823,
+            "city": "Jersey City",
+            "state": "NJ"
+        },
+        {
+            "zip_code": "11206",
+            "distance": 3.336,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11237",
+            "distance": 4.283,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10005",
+            "distance": 1.465,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10271",
+            "distance": 1.366,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10280",
+            "distance": 1.491,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10038",
+            "distance": 1.149,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10006",
+            "distance": 1.352,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "07097",
+            "distance": 3.414,
+            "city": "Jersey City",
+            "state": "NJ"
+        },
+        {
+            "zip_code": "07303",
+            "distance": 3.414,
+            "city": "Jersey City",
+            "state": "NJ"
+        },
+        {
+            "zip_code": "07308",
+            "distance": 3.414,
+            "city": "Jersey City",
+            "state": "NJ"
+        },
+        {
+            "zip_code": "07399",
+            "distance": 3.414,
+            "city": "Jersey City",
+            "state": "NJ"
+        },
+        {
+            "zip_code": "07309",
+            "distance": 1.994,
+            "city": "Jersey City",
+            "state": "NJ"
+        },
+        {
+            "zip_code": "10046",
+            "distance": 1.244,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10047",
+            "distance": 1.244,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10048",
+            "distance": 1.244,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10015",
+            "distance": 1.076,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10079",
+            "distance": 1.076,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10094",
+            "distance": 1.076,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10096",
+            "distance": 1.076,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10099",
+            "distance": 1.076,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10184",
+            "distance": 1.076,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10196",
+            "distance": 1.076,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10197",
+            "distance": 1.076,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10008",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10041",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10043",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10045",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10055",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10060",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10080",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10081",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10087",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10090",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10095",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10101",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10102",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10104",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10105",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10106",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10107",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10108",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10109",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10113",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10114",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10116",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10117",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10118",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10120",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10121",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10122",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10123",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10124",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10125",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10126",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10129",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10130",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10131",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10132",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10133",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10138",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10150",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10151",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10155",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10156",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10157",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10158",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10159",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10160",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10161",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10163",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10164",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10166",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10175",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10176",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10178",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10179",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10185",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10203",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10211",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10212",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10213",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10242",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10249",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10256",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10257",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10258",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10259",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10260",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10261",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10265",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10268",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10269",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10270",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10272",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10273",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10274",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10275",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10276",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10277",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10281",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10285",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10286",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10292",
+            "distance": 1.152,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10279",
+            "distance": 1.045,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11211",
+            "distance": 2.533,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10007",
+            "distance": 0.955,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10278",
+            "distance": 0.78,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10002",
+            "distance": 0.925,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "07304",
+            "distance": 3.95,
+            "city": "Jersey City",
+            "state": "NJ"
+        },
+        {
+            "zip_code": "10282",
+            "distance": 1.081,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "07311",
+            "distance": 1.855,
+            "city": "Jersey City",
+            "state": "NJ"
+        },
+        {
+            "zip_code": "07302",
+            "distance": 2.556,
+            "city": "Jersey City",
+            "state": "NJ"
+        },
+        {
+            "zip_code": "07395",
+            "distance": 4.308,
+            "city": "Jersey City",
+            "state": "NJ"
+        },
+        {
+            "zip_code": "10013",
+            "distance": 0.521,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11378",
+            "distance": 4.62,
+            "city": "Maspeth",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10012",
+            "distance": 0,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10009",
+            "distance": 1.022,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11222",
+            "distance": 2.645,
+            "city": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "zip_code": "07310",
+            "distance": 2.064,
+            "city": "Jersey City",
+            "state": "NJ"
+        },
+        {
+            "zip_code": "10003",
+            "distance": 0.648,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10014",
+            "distance": 0.739,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "07306",
+            "distance": 3.924,
+            "city": "Jersey City",
+            "state": "NJ"
+        },
+        {
+            "zip_code": "10010",
+            "distance": 1.237,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11120",
+            "distance": 3.706,
+            "city": "Long Island City",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10011",
+            "distance": 1.146,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11104",
+            "distance": 4.287,
+            "city": "Sunnyside",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10016",
+            "distance": 1.716,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "07030",
+            "distance": 2.233,
+            "city": "Hoboken",
+            "state": "NJ"
+        },
+        {
+            "zip_code": "11109",
+            "distance": 2.554,
+            "city": "Long Island City",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11101",
+            "distance": 3.443,
+            "city": "Long Island City",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10072",
+            "distance": 1.742,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10098",
+            "distance": 1.742,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10119",
+            "distance": 1.731,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10001",
+            "distance": 1.735,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "07307",
+            "distance": 3.551,
+            "city": "Jersey City",
+            "state": "NJ"
+        },
+        {
+            "zip_code": "10199",
+            "distance": 1.787,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10168",
+            "distance": 2.106,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10174",
+            "distance": 2.154,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10165",
+            "distance": 2.101,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10017",
+            "distance": 2.292,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10170",
+            "distance": 2.204,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10173",
+            "distance": 2.21,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10169",
+            "distance": 2.294,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10110",
+            "distance": 2.169,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10167",
+            "distance": 2.357,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10177",
+            "distance": 2.354,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10172",
+            "distance": 2.395,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10018",
+            "distance": 2.076,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10171",
+            "distance": 2.447,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10154",
+            "distance": 2.602,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10020",
+            "distance": 2.476,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10152",
+            "distance": 2.64,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10022",
+            "distance": 2.783,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10111",
+            "distance": 2.559,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10112",
+            "distance": 2.514,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10036",
+            "distance": 2.365,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10149",
+            "distance": 2.565,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10103",
+            "distance": 2.663,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10044",
+            "distance": 3.556,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11106",
+            "distance": 4.304,
+            "city": "Astoria",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10153",
+            "distance": 2.955,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10065",
+            "distance": 3.261,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10019",
+            "distance": 2.841,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "07087",
+            "distance": 3.404,
+            "city": "Union City",
+            "state": "NJ"
+        },
+        {
+            "zip_code": "07086",
+            "distance": 3.151,
+            "city": "Weehawken",
+            "state": "NJ"
+        },
+        {
+            "zip_code": "10021",
+            "distance": 3.658,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10162",
+            "distance": 3.936,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10082",
+            "distance": 3.218,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "11102",
+            "distance": 4.975,
+            "city": "Astoria",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10075",
+            "distance": 3.962,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10023",
+            "distance": 3.573,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10069",
+            "distance": 3.505,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "10028",
+            "distance": 4.222,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "07096",
+            "distance": 4.963,
+            "city": "Secaucus",
+            "state": "NJ"
+        },
+        {
+            "zip_code": "10128",
+            "distance": 4.609,
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "zip_code": "07093",
+            "distance": 4.382,
+            "city": "West New York",
+            "state": "NJ"
+        },
+        {
+            "zip_code": "07047",
+            "distance": 4.944,
+            "city": "North Bergen",
+            "state": "NJ"
+        }
+    ]
+}

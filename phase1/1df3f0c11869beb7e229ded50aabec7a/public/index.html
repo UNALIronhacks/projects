@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Safest Renting Options</title>
+    <style>
+      #map {
+        width: 100%;
+        height: 400px;
+        background-color: grey;
+      }
+    </style>
+    <script 
+      src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js">
+    </script>  
+    <script type="text/javascript">
+        function initMap(){
+          var mapDiv = document.getElementById('map');
+
+          var clocation =  {lat: 40.7291, lng: -73.9965};
+
+          var map = new google.maps.Map(mapDiv, {
+            center: {lat: clocation.lat, lng: clocation.lng},
+            zoom: 12});
+          var marker = new google.maps.Marker({ //Line 1
+            position: {lat: clocation.lat, lng: clocation.lng}, //Line2: Location to be highlighted
+            map: map,//Line 3: Reference to map object
+            title: 'NYU Stern School of Business in New York University (NYU), New York' //Line 4: Title to be given
+          })
+        }
+	  </script>   
+    <script>
+      var ncdctoken = "tNqzJIiHemBxoXFoVyhfCUYyPYrHDOIw";
+      var miObjeto;
+      $(document).ready(function() {
+        $.ajax({
+            url: "www.ncdc.noaa.gov/cdo-web/api/v2/data?datasetid=GHCND&locationid=ZIP:28801&startdate=2010-05-01&enddate=2010-05-01",
+
+            //url: "www.ncdc.noaa.gov/cdo-web/api/v2/data?datasetid=GHCND&locationid=ZIP:10004&startdate=2017-04-19&enddate=2017-04-19",
+            headers: { token: ncdctoken }
+        }).done(function(data, textStatus, jqXHR) {
+          miObjeto = jqXHR;
+          alert(data);
+          alert(textStatus);          
+          alert(jqXHR);
+          console.log ("esta es la data " + miObjeto);
+          //$('.greeting-id').append(data.id);
+          //$('.greeting-content').append(data.content);
+        });  
+      });
+    </script>  
+  </head>
+  <body>
+    <h3>Safest Renting Options</h3>
+    <div id="map"></div>
+    <div>
+      <p class="greeting-id">The ID is </p>
+      <p class="greeting-content">The content is </p>    
+    </div>
+  </body>
+  <script async defer
+	  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAZ_hrC3VSkVowxyNvQsIpzgcVzVooaFOk&callback=initMap">
+  </script>
+</html>
